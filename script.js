@@ -33,7 +33,7 @@ const container = document.getElementById('container')
 let content = '';
 
 for(let i = 1; i <= 100; i++){
+    console.log(i)
 }
 
-container.innerHTML = i;
 
